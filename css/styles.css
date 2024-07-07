@@ -87,6 +87,15 @@ body {
     color: #595959;
   }
   
+.about-prjct{
+  font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 425px;
+    color: #595959;
+}
+
   .project-item-link {
     font-style: normal;
     font-weight: 400;
@@ -197,20 +206,14 @@ body {
     margin: 0;
   }
   
-  .contacts-number {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #161d2a;
-  }
+
   
-  .contacts-email {
+  .contacts-inf {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #2979ff;
+    
   }
   
   /* Tech-skills */
